@@ -28,9 +28,9 @@ This is an inline equation, where we can include things like $\Delta$ and $y=mx+
 
 $$
 \begin{aligned}
-\lim_{x\rightarrow 10} \frac{\frac{d}{dx}(x^2-5x-50)}{\frac{d}{dx}(x-10)} \\
-\stackrel{H}{=} \lim_{x\rightarrow 10} 2x+5 \\
-= 2(10)-5 = \boxed{15}
+f(x) &= \lim_{x\rightarrow 10} \frac{\frac{d}{dx}(x^2-5x-50)}{\frac{d}{dx}(x-10)} \\
+&\stackrel{H}{=} \lim_{x\rightarrow 10} 2x+5 \\
+&= 2(10)-5 = \boxed{15}
 \end{aligned}
 $$
 
